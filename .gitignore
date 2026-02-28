@@ -1,0 +1,12 @@
+out/
+target/
+
+data/*.txt
+!data/.gitkeep
+
+.vscode/
+.idea/
+*.iml
+*.log
+Thumbs.db
+.DS_Store
